@@ -1,0 +1,92 @@
+is_dysarthria_x,gender_x,filename_x,prompts,is_dysarthria_y,gender_y,filename_y
+dysarthria,female,TestData/F/0005.wav,[relax your mouth in its normal position],non-dysarthria,female,TestData/FC/0003.wav
+dysarthria,female,TestData/F/0006.wav,stick,non-dysarthria,female,TestData/FC/0074.wav
+dysarthria,female,TestData/F/0008.wav,"Except in the winter when the ooze or snow or ice prevents,",non-dysarthria,female,TestData/FC/0061.wav
+dysarthria,female,TestData/F/0009.wav,pat,non-dysarthria,female,TestData/FC/0007.wav
+dysarthria,female,TestData/F/0010.wav,up,non-dysarthria,female,TestData/FC/0093.wav
+dysarthria,female,TestData/F/0011.wav,meat,non-dysarthria,female,TestData/FC/0125.wav
+dysarthria,female,TestData/F/0013.wav,know,non-dysarthria,female,TestData/FC/0083.wav
+dysarthria,female,TestData/F/0014.wav,he slowly takes a short walk in the open air each day.,non-dysarthria,female,TestData/FC/0113.wav
+dysarthria,female,TestData/F/0015.wav,air,non-dysarthria,female,TestData/FC/0049.wav
+dysarthria,female,TestData/F/0016.wav,swarm,non-dysarthria,female,TestData/FC/0024.wav
+dysarthria,female,TestData/F/0017.wav,double,non-dysarthria,female,TestData/FC/0065.wav
+dysarthria,female,TestData/F/0018.wav,no,non-dysarthria,female,TestData/FC/0012.wav
+dysarthria,female,TestData/F/0019.wav,storm,non-dysarthria,female,TestData/FC/0019.wav
+dysarthria,female,TestData/F/0021.wav,dug,non-dysarthria,female,TestData/FC/0005.wav
+dysarthria,female,TestData/F/0022.wav,You wished to know all about my grandfather.,non-dysarthria,female,TestData/FC/0054.wav
+dysarthria,female,TestData/F/0024.wav,knee,non-dysarthria,female,TestData/FC/0096.wav
+dysarthria,female,TestData/F/0025.wav,feet,non-dysarthria,female,TestData/FC/0030.wav
+dysarthria,female,TestData/F/0026.wav,train,non-dysarthria,female,TestData/FC/0105.wav
+dysarthria,female,TestData/F/0029.wav,beat,non-dysarthria,female,TestData/FC/0064.wav
+dysarthria,female,TestData/F/0030.wav,The quick brown fox jumps over the lazy dog.,non-dysarthria,female,TestData/FC/0026.wav
+dysarthria,female,TestData/F/0032.wav,She had your dark suit in greasy wash water all year.,non-dysarthria,female,TestData/FC/0102.wav
+dysarthria,female,TestData/F/0033.wav,car,non-dysarthria,female,TestData/FC/0118.wav
+dysarthria,female,TestData/F/0035.wav,giving those who observe him a pronounced feeling of the utmost respect.,non-dysarthria,female,TestData/FC/0033.wav
+dysarthria,female,TestData/F/0037.wav,rake,non-dysarthria,female,TestData/FC/0071.wav
+dysarthria,female,TestData/F/0039.wav,swore,non-dysarthria,female,TestData/FC/0045.wav
+dysarthria,female,TestData/F/0040.wav,rave,non-dysarthria,female,TestData/FC/0011.wav
+dysarthria,female,TestData/F/0042.wav,for,non-dysarthria,female,TestData/FC/0086.wav
+dysarthria,female,TestData/F/0043.wav,sip,non-dysarthria,female,TestData/FC/0009.wav
+dysarthria,female,TestData/F/0044.wav,grow,non-dysarthria,female,TestData/FC/0017.wav
+dysarthria,female,TestData/F/0045.wav,bit,non-dysarthria,female,TestData/FC/0029.wav
+dysarthria,female,TestData/F/0046.wav,chair,non-dysarthria,female,TestData/FC/0031.wav
+dysarthria,female,TestData/F/0047.wav,one,non-dysarthria,female,TestData/FC/0122.wav
+dysarthria,female,TestData/F/0048.wav,fair,non-dysarthria,female,TestData/FC/0013.wav
+dysarthria,female,TestData/F/0049.wav,two,non-dysarthria,female,TestData/FC/0101.wav
+dysarthria,female,TestData/F/0050.wav,beta,non-dysarthria,female,TestData/FC/0057.wav
+dysarthria,female,TestData/F/0051.wav,rage,non-dysarthria,female,TestData/FC/0056.wav
+dysarthria,female,TestData/F/0052.wav,spark,non-dysarthria,female,TestData/FC/0008.wav
+dysarthria,female,TestData/F/0057.wav,race,non-dysarthria,female,TestData/FC/0082.wav
+dysarthria,female,TestData/F/0058.wav,the,non-dysarthria,female,TestData/FC/0016.wav
+dysarthria,female,TestData/F/0060.wav,form,non-dysarthria,female,TestData/FC/0028.wav
+dysarthria,female,TestData/F/0061.wav,dark,non-dysarthria,female,TestData/FC/0006.wav
+dysarthria,female,TestData/F/0063.wav,farm,non-dysarthria,female,TestData/FC/0010.wav
+dysarthria,female,TestData/F/0064.wav,raid,non-dysarthria,female,TestData/FC/0053.wav
+dysarthria,female,TestData/F/0065.wav,fee,non-dysarthria,female,TestData/FC/0070.wav
+dysarthria,female,TestData/F/0066.wav,weed,non-dysarthria,female,TestData/FC/0041.wav
+dysarthria,female,TestData/F/0069.wav,bat,non-dysarthria,female,TestData/FC/0099.wav
+dysarthria,female,TestData/F/0070.wav,horn,non-dysarthria,female,TestData/FC/0079.wav
+dysarthria,female,TestData/F/0071.wav,jagged,non-dysarthria,female,TestData/FC/0050.wav
+dysarthria,female,TestData/F/0072.wav,sheet,non-dysarthria,female,TestData/FC/0121.wav
+dysarthria,female,TestData/F/0074.wav,bubble,non-dysarthria,female,TestData/FC/0020.wav
+dysarthria,female,TestData/F/0075.wav,warm,non-dysarthria,female,TestData/FC/0021.wav
+dysarthria,female,TestData/F/0076.wav,ship,non-dysarthria,female,TestData/FC/0081.wav
+dysarthria,female,TestData/F/0077.wav,input/images/kitchen.jpg,non-dysarthria,female,TestData/FC/0080.wav
+dysarthria,female,TestData/F/0080.wav,hair,non-dysarthria,female,TestData/FC/0060.wav
+dysarthria,female,TestData/F/0081.wav,share,non-dysarthria,female,TestData/FC/0115.wav
+dysarthria,female,TestData/F/0082.wav,rate,non-dysarthria,female,TestData/FC/0014.wav
+dysarthria,female,TestData/F/0083.wav,goat,non-dysarthria,female,TestData/FC/0051.wav
+dysarthria,female,TestData/F/0084.wav,trace,non-dysarthria,female,TestData/FC/0058.wav
+dysarthria,female,TestData/F/0086.wav,go,non-dysarthria,female,TestData/FC/0091.wav
+dysarthria,female,TestData/F/0087.wav,alpha,non-dysarthria,female,TestData/FC/0066.wav
+dysarthria,female,TestData/F/0088.wav,left,non-dysarthria,female,TestData/FC/0032.wav
+dysarthria,female,TestData/F/0089.wav,sticks,non-dysarthria,female,TestData/FC/0055.wav
+dysarthria,female,TestData/F/0090.wav,trouble,non-dysarthria,female,TestData/FC/0035.wav
+dysarthria,female,TestData/F/0091.wav,dagger,non-dysarthria,female,TestData/FC/0078.wav
+dysarthria,female,TestData/F/0094.wav,slip,non-dysarthria,female,TestData/FC/0112.wav
+dysarthria,female,TestData/F/0095.wav,glow,non-dysarthria,female,TestData/FC/0095.wav
+dysarthria,female,TestData/F/0097.wav,trade,non-dysarthria,female,TestData/FC/0068.wav
+dysarthria,female,TestData/F/0098.wav,range,non-dysarthria,female,TestData/FC/0119.wav
+dysarthria,female,TestData/F/0099.wav,stubble,non-dysarthria,female,TestData/FC/0044.wav
+dysarthria,female,TestData/F/0100.wav,floor,non-dysarthria,female,TestData/FC/0108.wav
+dysarthria,female,TestData/F/0101.wav,bug,non-dysarthria,female,TestData/FC/0042.wav
+dysarthria,female,TestData/F/0104.wav,yet he still thinks as swiftly as ever.,non-dysarthria,female,TestData/FC/0111.wav
+dysarthria,female,TestData/F/0108.wav,jacket,non-dysarthria,female,TestData/FC/0092.wav
+dysarthria,female,TestData/F/0109.wav,born,non-dysarthria,female,TestData/FC/0098.wav
+dysarthria,female,TestData/F/0111.wav,corn,non-dysarthria,female,TestData/FC/0018.wav
+dysarthria,female,TestData/F/0112.wav,right,non-dysarthria,female,TestData/FC/0109.wav
+dysarthria,female,TestData/F/0113.wav,knew,non-dysarthria,female,TestData/FC/0067.wav
+dysarthria,female,TestData/F/0115.wav,feed,non-dysarthria,female,TestData/FC/0048.wav
+dysarthria,female,TestData/F/0116.wav,Twice each day he plays skillfully and with zest upon our small organ.,non-dysarthria,female,TestData/FC/0090.wav
+dysarthria,female,TestData/F/0119.wav,rain,non-dysarthria,female,TestData/FC/0062.wav
+dysarthria,female,TestData/F/0121.wav,park,non-dysarthria,female,TestData/FC/0073.wav
+dysarthria,female,TestData/F/0122.wav,tip,non-dysarthria,female,TestData/FC/0034.wav
+dysarthria,female,TestData/F/0123.wav,down,non-dysarthria,female,TestData/FC/0063.wav
+dysarthria,female,TestData/F/0124.wav,gadget,non-dysarthria,female,TestData/FC/0107.wav
+dysarthria,female,TestData/F/0125.wav,store,non-dysarthria,female,TestData/FC/0052.wav
+dysarthria,female,TestData/F/0127.wav,input/images/story_starters_15.jpg,non-dysarthria,female,TestData/FC/0023.wav
+dysarthria,female,TestData/F/0130.wav,Grandfather likes to be modern in his language.,non-dysarthria,female,TestData/FC/0114.wav
+dysarthria,female,TestData/F/0131.wav,torn,non-dysarthria,female,TestData/FC/0088.wav
+dysarthria,female,TestData/F/0132.wav,"When he speaks, his voice is just a bit cracked and quivers a trifle.",non-dysarthria,female,TestData/FC/0015.wav
+dysarthria,female,TestData/F/0133.wav,trait,non-dysarthria,female,TestData/FC/0106.wav
+dysarthria,female,TestData/F/0134.wav,yes,non-dysarthria,female,TestData/FC/0022.wav

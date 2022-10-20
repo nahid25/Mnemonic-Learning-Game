@@ -1,0 +1,87 @@
+,is_dysarthria_x,gender_x,filename_x,prompts,is_dysarthria_y,gender_y,filename_y
+0,dysarthria,male,TestData/M/0002.wav,[say 'Eee-P-Ah' repeatedly],non-dysarthria,male,TestData/MC/0002.wav
+1,dysarthria,male,TestData/M/0003.wav,[say 'Pah-Tah-Kah' repeatedly],non-dysarthria,male,TestData/MC/0003.wav
+2,dysarthria,male,TestData/M/0004.wav,[relax your mouth in its normal position],non-dysarthria,male,TestData/MC/0004.wav
+3,dysarthria,male,TestData/M/0005.wav,"When he speaks, his voice is just a bit cracked and quivers a trifle.",non-dysarthria,male,TestData/MC/0120.wav
+4,dysarthria,male,TestData/M/0006.wav,trait,non-dysarthria,male,TestData/MC/0115.wav
+5,dysarthria,male,TestData/M/0007.wav,trouble,non-dysarthria,male,TestData/MC/0052.wav
+6,dysarthria,male,TestData/M/0008.wav,fee,non-dysarthria,male,TestData/MC/0076.wav
+7,dysarthria,male,TestData/M/0009.wav,Grandfather likes to be modern in his language.,non-dysarthria,male,TestData/MC/0095.wav
+8,dysarthria,male,TestData/M/0010.wav,raid,non-dysarthria,male,TestData/MC/0034.wav
+9,dysarthria,male,TestData/M/0011.wav,"Except in the winter when the ooze or snow or ice prevents,",non-dysarthria,male,TestData/MC/0053.wav
+10,dysarthria,male,TestData/M/0014.wav,fair,non-dysarthria,male,TestData/MC/0098.wav
+11,dysarthria,male,TestData/M/0015.wav,tip,non-dysarthria,male,TestData/MC/0114.wav
+12,dysarthria,male,TestData/M/0016.wav,bit,non-dysarthria,male,TestData/MC/0122.wav
+13,dysarthria,male,TestData/M/0017.wav,bubble,non-dysarthria,male,TestData/MC/0066.wav
+14,dysarthria,male,TestData/M/0018.wav,"Well, he is nearly ninety-three years old; ",non-dysarthria,male,TestData/MC/0015.wav
+15,dysarthria,male,TestData/M/0019.wav,"he dresses himself in an ancient black frock coat, ",non-dysarthria,male,TestData/MC/0107.wav
+16,dysarthria,male,TestData/M/0020.wav,horn,non-dysarthria,male,TestData/MC/0013.wav
+17,dysarthria,male,TestData/M/0021.wav,bat,non-dysarthria,male,TestData/MC/0045.wav
+18,dysarthria,male,TestData/M/0022.wav,beat,non-dysarthria,male,TestData/MC/0022.wav
+19,dysarthria,male,TestData/M/0024.wav,dagger,non-dysarthria,male,TestData/MC/0083.wav
+20,dysarthria,male,TestData/M/0025.wav,knew,non-dysarthria,male,TestData/MC/0069.wav
+21,dysarthria,male,TestData/M/0026.wav,yet he still thinks as swiftly as ever.,non-dysarthria,male,TestData/MC/0019.wav
+22,dysarthria,male,TestData/M/0028.wav,jacket,non-dysarthria,male,TestData/MC/0050.wav
+23,dysarthria,male,TestData/M/0029.wav,double,non-dysarthria,male,TestData/MC/0032.wav
+24,dysarthria,male,TestData/M/0030.wav,bug,non-dysarthria,male,TestData/MC/0008.wav
+25,dysarthria,male,TestData/M/0031.wav,dug,non-dysarthria,male,TestData/MC/0047.wav
+26,dysarthria,male,TestData/M/0032.wav,share,non-dysarthria,male,TestData/MC/0042.wav
+27,dysarthria,male,TestData/M/0033.wav,warm,non-dysarthria,male,TestData/MC/0057.wav
+28,dysarthria,male,TestData/M/0034.wav,chair,non-dysarthria,male,TestData/MC/0029.wav
+29,dysarthria,male,TestData/M/0035.wav,sticks,non-dysarthria,male,TestData/MC/0105.wav
+30,dysarthria,male,TestData/M/0036.wav,alpha,non-dysarthria,male,TestData/MC/0023.wav
+31,dysarthria,male,TestData/M/0037.wav,hair,non-dysarthria,male,TestData/MC/0030.wav
+32,dysarthria,male,TestData/M/0038.wav,rain,non-dysarthria,male,TestData/MC/0075.wav
+33,dysarthria,male,TestData/M/0039.wav,no,non-dysarthria,male,TestData/MC/0041.wav
+34,dysarthria,male,TestData/M/0040.wav,"but he always answers, ""Banana oil!"" ",non-dysarthria,male,TestData/MC/0060.wav
+35,dysarthria,male,TestData/M/0042.wav,input/images/kitchen.jpg,non-dysarthria,male,TestData/MC/0036.wav
+36,dysarthria,male,TestData/M/0043.wav,input/images/story_starters_15.jpg,non-dysarthria,male,TestData/MC/0027.wav
+37,dysarthria,male,TestData/M/0044.wav,Don't ask me to carry an oily rag like that.,non-dysarthria,male,TestData/MC/0094.wav
+38,dysarthria,male,TestData/M/0045.wav,feet,non-dysarthria,male,TestData/MC/0038.wav
+39,dysarthria,male,TestData/M/0046.wav,stubble,non-dysarthria,male,TestData/MC/0011.wav
+40,dysarthria,male,TestData/M/0047.wav,park,non-dysarthria,male,TestData/MC/0021.wav
+41,dysarthria,male,TestData/M/0048.wav,glow,non-dysarthria,male,TestData/MC/0049.wav
+42,dysarthria,male,TestData/M/0049.wav,[say 'OA' as in cOAt in a very low pitch],non-dysarthria,male,TestData/MC/0072.wav
+43,dysarthria,male,TestData/M/0050.wav,swarm,non-dysarthria,male,TestData/MC/0026.wav
+44,dysarthria,male,TestData/M/0051.wav,left,non-dysarthria,male,TestData/MC/0018.wav
+45,dysarthria,male,TestData/M/0052.wav,form,non-dysarthria,male,TestData/MC/0067.wav
+46,dysarthria,male,TestData/M/0053.wav,You wished to know all about my grandfather.,non-dysarthria,male,TestData/MC/0016.wav
+47,dysarthria,male,TestData/M/0054.wav,goat,non-dysarthria,male,TestData/MC/0085.wav
+48,dysarthria,male,TestData/M/0055.wav,feed,non-dysarthria,male,TestData/MC/0010.wav
+49,dysarthria,male,TestData/M/0056.wav,giving those who observe him a pronounced feeling of the utmost respect.,non-dysarthria,male,TestData/MC/0077.wav
+50,dysarthria,male,TestData/M/0057.wav,sip,non-dysarthria,male,TestData/MC/0064.wav
+51,dysarthria,male,TestData/M/0059.wav,air,non-dysarthria,male,TestData/MC/0062.wav
+52,dysarthria,male,TestData/M/0060.wav,rate,non-dysarthria,male,TestData/MC/0096.wav
+53,dysarthria,male,TestData/M/0061.wav,farm,non-dysarthria,male,TestData/MC/0071.wav
+54,dysarthria,male,TestData/M/0062.wav,slip,non-dysarthria,male,TestData/MC/0074.wav
+55,dysarthria,male,TestData/M/0064.wav,trade,non-dysarthria,male,TestData/MC/0040.wav
+56,dysarthria,male,TestData/M/0065.wav,two,non-dysarthria,male,TestData/MC/0028.wav
+57,dysarthria,male,TestData/M/0066.wav,usually minus several buttons; ,non-dysarthria,male,TestData/MC/0020.wav
+58,dysarthria,male,TestData/M/0067.wav,born,non-dysarthria,male,TestData/MC/0058.wav
+59,dysarthria,male,TestData/M/0068.wav,right,non-dysarthria,male,TestData/MC/0068.wav
+60,dysarthria,male,TestData/M/0069.wav,know,non-dysarthria,male,TestData/MC/0046.wav
+61,dysarthria,male,TestData/M/0070.wav,pat,non-dysarthria,male,TestData/MC/0054.wav
+62,dysarthria,male,TestData/M/0071.wav,rage,non-dysarthria,male,TestData/MC/0035.wav
+63,dysarthria,male,TestData/M/0072.wav,She had your dark suit in greasy wash water all year.,non-dysarthria,male,TestData/MC/0037.wav
+64,dysarthria,male,TestData/M/0073.wav,go,non-dysarthria,male,TestData/MC/0070.wav
+65,dysarthria,male,TestData/M/0074.wav,car,non-dysarthria,male,TestData/MC/0099.wav
+66,dysarthria,male,TestData/M/0075.wav,rave,non-dysarthria,male,TestData/MC/0088.wav
+67,dysarthria,male,TestData/M/0076.wav,beta,non-dysarthria,male,TestData/MC/0081.wav
+68,dysarthria,male,TestData/M/0077.wav,he slowly takes a short walk in the open air each day.,non-dysarthria,male,TestData/MC/0079.wav
+69,dysarthria,male,TestData/M/0078.wav,storm,non-dysarthria,male,TestData/MC/0044.wav
+70,dysarthria,male,TestData/M/0080.wav,trace,non-dysarthria,male,TestData/MC/0014.wav
+71,dysarthria,male,TestData/M/0081.wav,[say 'Eee' in a very high pitch],non-dysarthria,male,TestData/MC/0109.wav
+72,dysarthria,male,TestData/M/0084.wav,Twice each day he plays skillfully and with zest upon our small organ.,non-dysarthria,male,TestData/MC/0065.wav
+73,dysarthria,male,TestData/M/0085.wav,ship,non-dysarthria,male,TestData/MC/0039.wav
+74,dysarthria,male,TestData/M/0086.wav,down,non-dysarthria,male,TestData/MC/0051.wav
+75,dysarthria,male,TestData/M/0087.wav,meat,non-dysarthria,male,TestData/MC/0117.wav
+76,dysarthria,male,TestData/M/0088.wav,spark,non-dysarthria,male,TestData/MC/0006.wav
+77,dysarthria,male,TestData/M/0090.wav,stick,non-dysarthria,male,TestData/MC/0009.wav
+78,dysarthria,male,TestData/M/0091.wav,jagged,non-dysarthria,male,TestData/MC/0111.wav
+79,dysarthria,male,TestData/M/0092.wav,"We have often urged him to walk more and smoke less, ",non-dysarthria,male,TestData/MC/0121.wav
+80,dysarthria,male,TestData/M/0093.wav,for,non-dysarthria,male,TestData/MC/0048.wav
+81,dysarthria,male,TestData/M/0094.wav,rake,non-dysarthria,male,TestData/MC/0082.wav
+82,dysarthria,male,TestData/M/0095.wav,yes,non-dysarthria,male,TestData/MC/0110.wav
+83,dysarthria,male,TestData/M/0096.wav,weed,non-dysarthria,male,TestData/MC/0108.wav
+84,dysarthria,male,TestData/M/0098.wav,corn,non-dysarthria,male,TestData/MC/0055.wav
+85,dysarthria,male,TestData/M/0099.wav,up,non-dysarthria,male,TestData/MC/0033.wav
